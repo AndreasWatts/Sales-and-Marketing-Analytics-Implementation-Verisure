@@ -30,6 +30,7 @@ Below is a small sample of some of the tables and datamodelling done for the pro
 ## Dashboards & Reports
 
 Sample images of some of the dashboards & Reports:
+
 ![enter image description here](https://github.com/AndreasWatts/Sales-and-Marketing-Analytics-Implementation-Verisure/blob/main/Image%203%20Verisure.png?raw=true)
 
 ![enter image description here](https://github.com/AndreasWatts/Sales-and-Marketing-Analytics-Implementation-Verisure/blob/main/Image%201%20Verisure.png?raw=true)

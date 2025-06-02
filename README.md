@@ -28,6 +28,7 @@ Below is a small sample of some of the tables and datamodelling done for the pro
 ![ByteX Dataset ERD](https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/c26311fc-39cf-492f-b1cc-2a7632d7eb15/ecommerce_ERD/w=3840,quality=90,fit=scale-down)
 
 ## Dashboards & Reports
+
 Sample images of some of the dashboards & Reports:
 ![enter image description here](https://github.com/AndreasWatts/Sales-and-Marketing-Analytics-Implementation-Verisure/blob/main/Image%203%20Verisure.png?raw=true)
 
